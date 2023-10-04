@@ -1,4 +1,4 @@
-from lib.pse_2 import intersection_node, Node
+from lib.pse_2 import Node, intersection_node
 
 def test_will_return_intersection_for_lists_of_same_length():
     # Arrange
